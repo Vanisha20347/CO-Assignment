@@ -1,4 +1,4 @@
-# CO M21 Assignment
+# RISC-V Assembler and Simulator
 Starter repository for Computer Organization, Monsoon 2021 semester, assignment at IIITD
 
 ## Adding code
